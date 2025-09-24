@@ -2,7 +2,7 @@
 
 ---
 
-## Maringá Housing Prices :office: :chart_with_upwards_trend:
+## Maringá Housing Prices
 
 Dashboard developed to assist in decision-making to purchase real estate in the city of Maringá - Brazil. The project is also composed by the ETL of 3 real estate agencies from this city.
 
@@ -14,6 +14,8 @@ Dashboard developed to assist in decision-making to purchase real estate in the 
   frameborder="0"
   allowFullScreen="true">
 </iframe>
+
+---
 
 ## Financial Utilities API
 
@@ -30,5 +32,6 @@ Composed by 4 routes:
 <iframe src="CV Joao Paiva.pdf" width="100%" height="600px">
     Este navegador não suporta PDF. <a href="CV Joao Paiva.pdf">Baixe o PDF</a>.
 </iframe>
+
 
 [View my LinkedIn Profile](https://www.linkedin.com/in/jo%C3%A3o-paiva-b0153a146/)
