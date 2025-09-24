@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 
 title: João Paiva
 
-description: Currently working as Mid Level Data Analyst at Observatório FIESC, an economic observatory from Brazil.
-description: I have bachelor's degrees in Economics, obtained at UniCesumar - Brazil, and Electrical Engineering, obtained at Univeridade Estadual de Maringa - Brazil, and also a postgraduate degree in Big Data, obtained at Fundação Getúlio Vargas - Brazil.
-
+description: >
+  Currently working as Mid Level Data Analyst at Observatório FIESC, an economic observatory from Brazil.<br><br>
+  I have bachelor's degrees in Economics, obtained at UniCesumar - Brazil, and Electrical Engineering, obtained at Univeridade Estadual de Maringa - Brazil, and also a postgraduate degree in Big Data, obtained at Fundação Getúlio Vargas - Brazil.
