@@ -10,7 +10,7 @@ Dashboard developed to assist in decision-making to purchase real estate in the 
   title="painel_maringa_housing"
   width="600"
   height="373.5"
-  src="https://app.powerbi.com/view?r=eyJrIjoiMTFmNDc0NjQtNjE0OC00YTFhLWEzODQtNjUxYjE5MzcwMWJkIiwidCI6ImQ5YTJlMjFkLTBiMzctNDRlMS1hZmEyLWZjN2VlYzVmODQ4MCJ9"
+  src="https://app.powerbi.com/view?r=eyJrIjoiMTFmNDc0NjQtNjE0OC00YTFhLWEzODQtNjUxYjE5MzcwMWJkIiwidCI6ImQ5YTJlMjFkLTBiMzctNDRlMS1hZmEyLWZjN2VlYzVmODQ4MCJ9&toolbar=0"
   frameborder="0"
   allowFullScreen="true">
 </iframe>
@@ -33,7 +33,7 @@ Composed by 4 routes:
 
 ## Planning of a Thermocirculators Manufacturer Fictitious Company
 
-Published paper: ![Planning of a Thermocirculators Manufacturer Fictitious Company](https://www.relise.eco.br/index.php/relise/article/view/920/956).
+Published paper: [Planning of a Thermocirculators Manufacturer Fictitious Company](https://www.relise.eco.br/index.php/relise/article/view/920/956).
 Developed in 2022-2023.
 Publisehd on: 05/03/2025.
 
@@ -43,7 +43,7 @@ This paper proposes the planning of a fictitious company that manufactures therm
 
 ## Development of an electromiography sensor
 
-Published paper (in portuguese): ![Development of an electromiography sensor](https://revistas.uepg.br/index.php/ret/article/view/23084/209209218637)
+Published paper (in portuguese): [Development of an electromiography sensor](https://revistas.uepg.br/index.php/ret/article/view/23084/209209218637)
 Developed in 2022-2023.
 Publisehd on: 28/05/2024.
 
