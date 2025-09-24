@@ -1,23 +1,24 @@
-# João Paiva
-
-I am a Data Scientist 
+# Portfolio
 
 ---
 
-## Research Interests
-- Data 
+## Maringá Housing Prices
+
+Dashboard developed to assist in decision-making to purchase real estate in the city of Maringá - Brazil. The project is also composed by the ETL of 3 real estate agencies from this city.
+
+<iframe
+  title="painel_maringa_housing"
+  width="600"
+  height="373.5"
+  src="https://app.powerbi.com/view?r=eyJrIjoiMTFmNDc0NjQtNjE0OC00YTFhLWEzODQtNjUxYjE5MzcwMWJkIiwidCI6ImQ5YTJlMjFkLTBiMzctNDRlMS1hZmEyLWZjN2VlYzVmODQ4MCJ9"
+  frameborder="0"
+  allowFullScreen="true">
+</iframe>
 
 ---
 
-## Portfolio
+# CV
 
-### 📊 Project 1 — Sales Dashboard
-Built an interactive dashboard with Power BI to monitor whisky sales, stock and production.
 
-### 🤖 Project 2 — NLP for News Classification
-Developed a natural language processing model to classify economic news as optimistic or pessimistic.
-
-### 🕸 Project 3 — Web Scraping Automation
-Created scrapers with R and Python to collect and analyze data from online auctions.
 
 [View my LinkedIn Profile](https://www.linkedin.com/in/SEU-LINK)
