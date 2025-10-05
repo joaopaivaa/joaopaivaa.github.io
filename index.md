@@ -25,7 +25,7 @@ Composed by 4 routes:
 - French and SAC Amortizations Calculation Route (POST): Receives principal, interest rate and number of time periods and calculates its amortization process;
 - Simple and Compound Interest Route (POST): Receives 3 values between total amount, principal, interest rate and number of time periods and calculates the missing one.
 
-[Try it!]([(https://financial-utilities-api.onrender.com/docs])
+[Try it!](https://financial-utilities-api.onrender.com/docs)
 
 ---
 
