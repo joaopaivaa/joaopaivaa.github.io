@@ -54,13 +54,3 @@ Developed in 2022-2023.
 Publisehd on: 28/05/2024.
 
 Electromyography is a highly useful tool for clinical applications involving the human-machine interface. This project proposes the development of a system for capturing bio-potentials applicable to activities and projects related to the Arduino microcontroller and the DIY (Do It Yourself) culture. The circuit design involved the use of operational amplifiers, instrumental amplifiers, active band-pass filters, resistors, and capacitors. The result was a circuit capable of receiving signals from the user's muscles, cleaning, amplifying and delivering them to the microcontroller. Through its integrated analog-to-digital converter (ADC), it displays the signal values, enabling this sensor’s application in DIY projects. Also, a Printed Circuit Board (PCB) was developed with dimensions of 5 x 3.5 cm and 2 layers, and considered the use of through-hole soldering components. The developed sensor had a final production cost of U$ 16.75, including the PCB manufacturing and delivery, all the electronic components and the electrodes wire.
-
----
-
-# CV
-
-<iframe src="CV Joao Paiva.pdf" width="100%" height="600px">
-    Este navegador não suporta PDF. <a href="CV Joao Paiva.pdf">Baixe o PDF</a>.
-</iframe>
-
-[View my LinkedIn Profile](https://www.linkedin.com/in/jo%C3%A3o-paiva-b0153a146/)
