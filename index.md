@@ -6,7 +6,7 @@
 
 Dashboard developed to understand the average prices of 6 types of fuels geographically and over time in Brazil regions, states and cities.
 
-Applied tools: Streamlit and Python.
+Applied tools: Streamlit, Plotly, PySpark and Python.
 
 <iframe
   title="fuel_prices_dashboard"
