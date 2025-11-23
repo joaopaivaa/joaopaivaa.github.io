@@ -2,9 +2,26 @@
 
 ---
 
+## Fuel Prices in Brazil
+
+Dashboard developed to understand the average prices of 6 types of fuels geographically and over time in Brazil.
+
+Applied tools: Streamlit and Python.
+
+<iframe
+  title="fuel_prices_dashboard"
+  width="600"
+  height="373.5"
+  src="https://precos-de-combustiveis-no-brasil.streamlit.app/"
+  frameborder="0"
+  allowFullScreen="true">
+</iframe>
+
 ## Maringá Housing Prices
 
-Dashboard developed to assist in decision-making to purchase real estate in the city of Maringá - Brazil. The project is also composed by the ETL of 3 real estate agencies from this city.
+Dashboard developed to assist in decision-making to purchase real estate in the city of Maringá - Brazil. The project is also composed by the ETL of 3 real estate agencies websites.
+
+Applied tools: Power BI and Python.
 
 <iframe
   title="painel_maringa_housing"
@@ -24,6 +41,8 @@ Composed by 4 routes:
 - Currency Rate Conversion Route (POST): Receives time series monetary values and converts it into other currencies. Available for: Euro to GBP, Euro to USD, GBP to Euro, GBP to USD, USD to Euro and USD to GBP;
 - French and SAC Amortizations Calculation Route (POST): Receives principal, interest rate and number of time periods and calculates its amortization process;
 - Simple and Compound Interest Route (POST): Receives 3 values between total amount, principal, interest rate and number of time periods and calculates the missing one.
+
+Applied tools: FastAPI and Python.
 
 [Try it!](https://financial-utilities-api.onrender.com/docs)
 
