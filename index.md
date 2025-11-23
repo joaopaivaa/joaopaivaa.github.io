@@ -4,7 +4,7 @@
 
 ## Fuel Prices in Brazil
 
-Dashboard developed to understand the average prices of 6 types of fuels geographically and over time in Brazil.
+Dashboard developed to understand the average prices of 6 types of fuels geographically and over time in Brazil regions, states and cities.
 
 Applied tools: Streamlit and Python.
 
@@ -12,7 +12,7 @@ Applied tools: Streamlit and Python.
   title="fuel_prices_dashboard"
   width="600"
   height="373.5"
-  src="https://precos-de-combustiveis-no-brasil.streamlit.app/?embed=true"
+  src="https://precos-de-combustiveis-no-brasil.streamlit.app/?embed_options=show_footer,dark_theme,show_padding,show_toolbar,show_colored_line"
   frameborder="0"
   allowFullScreen="true">
 </iframe>
