@@ -12,7 +12,7 @@ Applied tools: Streamlit and Python.
   title="fuel_prices_dashboard"
   width="600"
   height="373.5"
-  src="https://precos-de-combustiveis-no-brasil.streamlit.app/"
+  src="https://precos-de-combustiveis-no-brasil.streamlit.app/?embed=true"
   frameborder="0"
   allowFullScreen="true">
 </iframe>
