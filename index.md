@@ -10,8 +10,8 @@ Applied tools: Streamlit, Plotly, PySpark and Python.
 
 <iframe
   title="fuel_prices_dashboard"
-  width="100%"
-  height="1800px"
+  width="600"
+  height="373.5"
   src="https://precos-de-combustiveis-no-brasil.streamlit.app/?embed=true"
   frameborder="0"
   allowFullScreen="true">
