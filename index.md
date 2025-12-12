@@ -4,7 +4,7 @@
 
 ## Fuel Prices in Brazil
 
-Dashboard developed to understand the average prices of 6 types of fuels geographically and over time in Brazil regions, states and cities.
+Dashboard developed to analyze the average prices of six types of fuel across Brazil over time and at different territorial levels, including regions, states, and cities
 
 Applied tools: Streamlit, Plotly, PySpark and Python.
 
@@ -19,7 +19,7 @@ Applied tools: Streamlit, Plotly, PySpark and Python.
 
 ## Maringá Housing Prices
 
-Dashboard developed to assist in decision-making to purchase real estate in the city of Maringá - Brazil. The project is also composed by the ETL of 3 real estate agencies websites.
+Dashboard created to support decision-making for real estate purchases in the city of Maringá, Brazil. The project also includes ETL pipelines built from three real estate agency websites.
 
 Applied tools: Power BI and Python.
 
