@@ -25,7 +25,7 @@ Dashboard developed to analyze the average prices of six types of fuel across Br
 
 Applied tools: Plotly, PySpark, Python and Streamlit.
 
-Applied skills: data analysis, data visualization, ETL and web scraping.
+Applied skills: data analysis, data visualization and ETL.
 
 <iframe
   title="fuel_prices_dashboard"
