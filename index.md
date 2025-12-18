@@ -6,8 +6,9 @@
 
 A recommendation system that, based on the user’s tasting profile, recommends the most similar bottle based on its tasting notes.
 
-Applied tools: Streamlit, Python and R.
-Applied skills: web scraping, ETL, data visualization, recommendation system.
+Applied tools: Python, R and Streamlit.
+
+Applied skills: data visualization, ETL, recommendation systems and web scraping.
 
 <iframe
   title="dram_match"
@@ -22,8 +23,9 @@ Applied skills: web scraping, ETL, data visualization, recommendation system.
 
 Dashboard developed to analyze the average prices of six types of fuel across Brazil over time and at different territorial levels, including regions, states, and cities
 
-Applied tools: Streamlit, Plotly, PySpark and Python.
-Applied skills: web scraping, ETL, data visualization, data analysis.
+Applied tools: Plotly, PySpark, Python and Streamlit.
+
+Applied skills: data analysis, data visualization, ETL and web scraping.
 
 <iframe
   title="fuel_prices_dashboard"
@@ -39,7 +41,8 @@ Applied skills: web scraping, ETL, data visualization, data analysis.
 Dashboard created to support decision-making for real estate purchases in the city of Maringá, Brazil. The project also includes ETL pipelines built from three real estate agency websites.
 
 Applied tools: Power BI and Python.
-Applied skills: web scraping, ETL, data visualization, data analysis.
+
+Applied skills: data analysis, data visualization, ETL and web scraping.
 
 <iframe
   title="painel_maringa_housing"
@@ -61,6 +64,8 @@ Composed by 4 routes:
 - Simple and Compound Interest Route (POST): Receives 3 values between total amount, principal, interest rate and number of time periods and calculates the missing one.
 
 Applied tools: FastAPI and Python.
+
+Applied skills: economics, finance, python development.
 
 [Try it!](https://financial-utilities-api.onrender.com/docs)
 
