@@ -2,11 +2,28 @@
 
 ---
 
+## DramMatch - Your whisky recommender
+
+A recommendation system that, based on the user’s tasting profile, recommends the most similar bottle based on its tasting notes.
+
+Applied tools: Streamlit, Python and R.
+Applied skills: web scraping, ETL, data visualization, recommendation system.
+
+<iframe
+  title="dram_match"
+  width="600"
+  height="373.5"
+  src="https://dram-match.streamlit.app/?embed=true"
+  frameborder="0"
+  allowFullScreen="true">
+</iframe>
+
 ## Fuel Prices in Brazil
 
 Dashboard developed to analyze the average prices of six types of fuel across Brazil over time and at different territorial levels, including regions, states, and cities
 
 Applied tools: Streamlit, Plotly, PySpark and Python.
+Applied skills: web scraping, ETL, data visualization, data analysis.
 
 <iframe
   title="fuel_prices_dashboard"
@@ -22,6 +39,7 @@ Applied tools: Streamlit, Plotly, PySpark and Python.
 Dashboard created to support decision-making for real estate purchases in the city of Maringá, Brazil. The project also includes ETL pipelines built from three real estate agency websites.
 
 Applied tools: Power BI and Python.
+Applied skills: web scraping, ETL, data visualization, data analysis.
 
 <iframe
   title="painel_maringa_housing"
