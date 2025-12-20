@@ -8,7 +8,7 @@ A recommendation system that, based on the user’s tasting profile, recommends 
 
 Applied tools: Python, R and Streamlit.
 
-Applied skills: data visualization, ETL, recommendation systems and web scraping.
+Applied skills: data visualization, ETL, natural languege processing, recommendation systems and web scraping.
 
 <iframe
   title="dram_match"
@@ -25,7 +25,7 @@ Dashboard developed to analyze the average prices of six types of fuel across Br
 
 Applied tools: Plotly, PySpark, Python and Streamlit.
 
-Applied skills: data analysis, data visualization and ETL.
+Applied skills: big data, data analysis, data visualization and ETL.
 
 <iframe
   title="fuel_prices_dashboard"
