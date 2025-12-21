@@ -8,7 +8,7 @@ A recommendation system that, based on the user’s tasting profile, recommends 
 
 Applied tools: Python, R and Streamlit.
 
-Applied skills: data visualization, ETL, natural languege processing, recommendation systems and web scraping.
+Applied skills: data visualization, ETL, natural language processing, recommendation systems and web scraping.
 
 [Try it!](https://dram-match.streamlit.app)
 
