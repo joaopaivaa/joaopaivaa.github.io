@@ -10,14 +10,7 @@ Applied tools: Python, R and Streamlit.
 
 Applied skills: data visualization, ETL, natural languege processing, recommendation systems and web scraping.
 
-<iframe
-  title="dram_match"
-  width="600"
-  height="373.5"
-  src="https://dram-match.streamlit.app/?embed=true"
-  frameborder="0"
-  allowFullScreen="true">
-</iframe>
+[Try it!](https://dram-match.streamlit.app)
 
 ## Fuel Prices in Brazil
 
@@ -27,14 +20,7 @@ Applied tools: Plotly, PySpark, Python and Streamlit.
 
 Applied skills: big data, data analysis, data visualization and ETL.
 
-<iframe
-  title="fuel_prices_dashboard"
-  width="600"
-  height="373.5"
-  src="https://precos-de-combustiveis-no-brasil.streamlit.app/?embed=true"
-  frameborder="0"
-  allowFullScreen="true">
-</iframe>
+[Try it!](https://precos-de-combustiveis-no-brasil.streamlit.app)
 
 ## Maringá Housing Prices
 
