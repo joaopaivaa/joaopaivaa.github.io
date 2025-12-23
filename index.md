@@ -65,7 +65,7 @@ Applied skills: economics, finance, python development.
 
 Published paper: [Development of a Thermocirculator Applied to the Sous Vide Culinary Technique](https://www.ojs.unirg.edu.br/index.php/1/article/view/5994).
 
-Developed in 2019-2023 in collaboration with Erinaldo Nascimento, MSc and Camila Miranda, PhD as electrical engineering final paper.
+Developed in 2019-2023 in collaboration with Erinaldo Nascimento, MSc and Camila Miranda, PhD as part of my electrical engineering BSc final paper and undergraduate research.
 
 Published on: 18/12/2025.
 
@@ -77,7 +77,7 @@ This paper addresses the theory, design, and execution of a thermocirculator, de
 
 Published paper: [Planning of a Thermocirculators Manufacturer Fictitious Company](https://www.relise.eco.br/index.php/relise/article/view/920/956).
 
-Developed in 2022-2023 in collaboration with Erinaldo Nascimento, MSc and Camila Miranda, PhD as electrical engineering final paper.
+Developed in 2022-2023 in collaboration with Erinaldo Nascimento, MSc and Camila Miranda, PhD as part of my electrical engineering BSc final paper and undergraduate research.
 
 Published on: 05/03/2025.
 
@@ -89,7 +89,7 @@ This paper proposes the planning of a fictitious company that manufactures therm
 
 Published paper (in portuguese): [Development of an electromiography sensor](https://revistas.uepg.br/index.php/ret/article/view/23084/209209218637)
 
-Developed in 2019-2021 on my own.
+Developed in 2019-2021 on my own as undergraduate research.
 
 Published on: 28/05/2024.
 
