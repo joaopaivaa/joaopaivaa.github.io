@@ -67,7 +67,7 @@ Published paper: [Development of a Thermocirculator Applied to the Sous Vide Cul
 
 Developed in 2019-2023 in collaboration with Erinaldo Nascimento, MSc and Camila Miranda, PhD as electrical engineering final paper.
 
-Publisehd on: 18/12/2025.
+Published on: 18/12/2025.
 
 This paper addresses the theory, design, and execution of a thermocirculator, developing its electronic circuits, printed circuit boards (PCBs), plastic structure, and equipment assembling. The developed thermocirculator is based on 3 previous prototypes, with the first one being created in 2019. The ESP32 microcontroller was used as the basis for the electronic circuits. MicroPython was chosen as the programming language, and a web server was developed to connect the user and the equipment via Wi-Fi, allowing monitoring of the equipment from anywhere. An On-Off controller was implemented to keep the water temperature constant. The plastic structure was made of ABS plastic, and manufactured by 3D printing, with lateral dimensions of 7 x 7 cm and 18.5 cm of height, divided into upper portion, medial cover, lower portion, and lower covers. After the equipment was assembled, tests were made to verify its operation, which consisted of preparing foods such as a NY strip steak at 55 ºC, pork ribs at 70 ºC, and eggs at different temperatures. The developed thermocirculator performs its function excellently and can prepare food like a commercial product, fulfilling the objectives established by this paper.
 
@@ -79,18 +79,18 @@ Published paper: [Planning of a Thermocirculators Manufacturer Fictitious Compan
 
 Developed in 2022-2023 in collaboration with Erinaldo Nascimento, MSc and Camila Miranda, PhD as electrical engineering final paper.
 
-Publisehd on: 05/03/2025.
+Published on: 05/03/2025.
 
 This paper proposes the planning of a fictitious company that manufactures thermocirculators, including a business model and a business plan, brand, and conclusions about its viability. Studies indicate that only 37.6% of companies founded in 2014 surviveduntil 2019, and lack of planning is one of the main reasons that lead to the early closure of companies, making it important to make an adequate business planning. Using the Canvas methodology and the manual proposed by Sebrae, the business model and business plan were prepared, respectively. Based on market research, an initial investment of R$23,061.00 and an initial production of 50 thermocirculators with a selling price of R$700.00 per unit were estimated. The SWOT analysis pointed out two threats: competition from consolidated companies and low market demand, in addition to a weakness in product differentiation. Therefore, it is concluded that opening a thermocirculator manufacturing company is unfeasible in this context.
 
 ---
 
-## Development of an electromiography sensor
+## Development of an Electromyography Sensor
 
 Published paper (in portuguese): [Development of an electromiography sensor](https://revistas.uepg.br/index.php/ret/article/view/23084/209209218637)
 
 Developed in 2019-2021 on my own.
 
-Publisehd on: 28/05/2024.
+Published on: 28/05/2024.
 
 Electromyography is a highly useful tool for clinical applications involving the human-machine interface. This project proposes the development of a system for capturing bio-potentials applicable to activities and projects related to the Arduino microcontroller and the DIY (Do It Yourself) culture. The circuit design involved the use of operational amplifiers, instrumental amplifiers, active band-pass filters, resistors, and capacitors. The result was a circuit capable of receiving signals from the user's muscles, cleaning, amplifying and delivering them to the microcontroller. Through its integrated analog-to-digital converter (ADC), it displays the signal values, enabling this sensor’s application in DIY projects. Also, a Printed Circuit Board (PCB) was developed with dimensions of 5 x 3.5 cm and 2 layers, and considered the use of through-hole soldering components. The developed sensor had a final production cost of U$ 16.75, including the PCB manufacturing and delivery, all the electronic components and the electrodes wire.
