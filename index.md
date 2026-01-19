@@ -1,7 +1,5 @@
 # Portfolio
 
----
-
 ## Cask Worth - Whisky Casks Pricing Model
 
 A machine learning model trained on past auction data from multiple auction houses, capable of estimating the value a whisky cask.
@@ -49,8 +47,6 @@ Applied skills: data analysis, data visualization, ETL and web scraping.
   allowFullScreen="true">
 </iframe>
 
----
-
 ## Whisky Casks ETL
 
 ETL process developed to extract, transform and load data from whisky auction houses intended to feed my personal data analysis and machine learning projects related to whisky casks.
@@ -60,8 +56,6 @@ Applied tools: Python and R.
 Applied skills: ETL and web scraping.
 
 [GitHub repository](https://github.com/joaopaivaa/Whisky-Casks-ETL)
-
----
 
 ## Financial Utilities API
 
@@ -80,8 +74,6 @@ Applied skills: economics, finance, python development.
 ---
 
 # Publications
-
----
 
 ## Development of a Thermocirculator Applied to the Sous Vide Culinary Technique
 
