@@ -87,6 +87,8 @@ Applied skills: economics, finance, python development.
 
 # Academic Publications
 
+---
+
 ## Development of a Thermocirculator Applied to the Sous Vide Culinary Technique
 
 Published paper: [Development of a Thermocirculator Applied to the Sous Vide Culinary Technique](https://www.ojs.unirg.edu.br/index.php/1/article/view/5994).
