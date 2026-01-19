@@ -2,6 +2,16 @@
 
 ---
 
+## Cask Worth - Whisky Casks Pricing Model
+
+A machine learning model trained on past auction data from multiple auction houses, capable of estimating the value a whisky cask.
+
+Applied tools: Python, R and Streamlit.
+
+Applied skills: data visualization, ETL, machine learning and web scraping.
+
+[Try it!](https://cask-worth.streamlit.app/)
+
 ## DramMatch - Your whisky recommender
 
 A recommendation system that, based on the user’s tasting profile, recommends the most similar bottle based on its tasting notes.
