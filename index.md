@@ -55,6 +55,8 @@ Applied skills: data analysis, data visualization, ETL and web scraping.
   allowFullScreen="true">
 </iframe>
 
+---
+
 ## Whisky Casks ETL
 
 ETL process developed to extract, transform and load data from whisky auction houses intended to feed my personal data analysis and machine learning projects related to whisky casks.
