@@ -4,11 +4,11 @@
 
 ## Cask Worth - Whisky Casks Pricing Model
 
-A machine learning model trained on past auction data from multiple auction houses, capable of estimating the value a whisky cask.
+A machine learning (supervised learning) model trained on past auction data from multiple auction houses, capable of estimating the value a whisky cask.
 
-Applied tools: Python, R and Streamlit.
+Applied tools: Python, R, Scikit-learn and Streamlit.
 
-Applied skills: data visualization, ETL, machine learning and web scraping.
+Applied skills: data analysis, ETL, machine learning and web scraping.
 
 [Try it!](https://cask-worth.streamlit.app/)
 
