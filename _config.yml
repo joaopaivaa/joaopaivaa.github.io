@@ -3,8 +3,24 @@ theme: jekyll-theme-minimal
 title: João Vitor de Paiva Marcotti
 
 description: >
-  Currently working full-time as a Data Analyst at FIESC's economic observatory in Brazil, and as a Data Science Freelancer at Whiskystats, based in the Netherlands.<br><br>
-  I hold bachelor's degrees in Economics (UniCesumar – Brazil) and Electrical Engineering (Universidade Estadual de Maringá – Brazil), as well as a postgraduation degree in Big Data from Fundação Getúlio Vargas (Brazil).<br><br>
-  Driven by continuous learning, I am currently enrolled in a postgraduation program in Computer Vision at Data Science Academy (Brazil).
+
+  Hi there 👋
+  
+  I am João, born and raised in Brazil.
+  
+  Data analyst at FIESC's Economic Observatory and data science freelancer at Whiskystats with a strong background in Electrical Engineering and Economics.
+  
+  Skilled in Python, R, SQL and PySpark. Experienced in ETL pipelines, API development, big data analysis on Databricks, macroeconomic data validation, time series analysis and machine learning modeling.
+  
+  Currently learning about computer vision.
+  
+  As side hustle, I am currently working on:
+  - Whisky recommendation system.
+  - Casks valuation tool based on machine learning.
+  - Bottle filling level classifier based on computer vision.
+  
+  How to reach me:
+  - Email: joaopaiva.datascience@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/joao-vitor-de-paiva-marcotti
 
 show_downloads: false
