@@ -89,6 +89,18 @@ Applied skills: economics, finance, python development.
 
 ---
 
+## Development and Comparison of Machine Learning Models Applied to the Prediction of Ibovespa Performance Trends
+
+Published paper: [Development and Comparison of Machine Learning Models Applied to the Prediction of Ibovespa Performance Trends](https://periodicos.uem.br/ojs/index.php/EconRev/article/view/79396/751375161774).
+
+Developed in 2023, on my own, as my economics BSc final paper.
+
+Published on: 23/03/2026.
+
+The models presented in this paper were compared across the periods of 2010, 2015, and 2020 until 2023. It was established that for a model to be considered satisfactory, its precision must exceed the percentage of days in which the Ibovespa appreciated during the test period. Four initial experiments were conducted, with multiple technical analysis indicators as input variables. Recurrent Neural Network (RNN) models showed the best average performances. The hybridization of the best-performing models in the initial experiments did not surpass their individual performances in the last experiment. Even with accuracy and precision close to 60%, the best models still performed near the base model, so they can’t be considered good enough to be used as a consistent investment strategy. For future work exploring the prediction of Ibovespa trends over longer periods, such as months or years, rather than just a single day, may provide better results.
+
+---
+
 ## Development of a Thermocirculator Applied to the Sous Vide Culinary Technique
 
 Published paper: [Development of a Thermocirculator Applied to the Sous Vide Culinary Technique](https://www.ojs.unirg.edu.br/index.php/1/article/view/5994).
