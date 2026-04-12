@@ -14,7 +14,7 @@
 
 // 2. Alarga a barra lateral (Header)
 header {
-  width: 250px !important; // Largura fixa para o menu não ficar gigante
+  width: 320px !important; // Largura fixa para o menu não ficar gigante
   float: none !important;
   position: sticky;
   top: 20px;
@@ -23,7 +23,7 @@ header {
 
 // 3. Faz a seção principal ocupar todo o resto da tela
 section {
-  width: calc(100% - 300px) !important; // Ocupa a largura total menos o espaço do header
+  width: calc(100% - 350px) !important; // Ocupa a largura total menos o espaço do header
   max-width: none !important;
   float: none !important;
   margin: 0 !important;
