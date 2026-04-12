@@ -1,0 +1,16 @@
+---
+---
+@import "{{ site.theme }}";
+
+.wrapper {
+  max-width: 90%; /* Aumenta a largura de ~600px para 90% da tela */
+  margin: 0 auto;
+}
+
+header {
+  width: 250px; /* Mantém a lateral esquerda com tamanho fixo */
+}
+
+section {
+  width: calc(100% - 300px); /* Faz o conteúdo principal ocupar o resto */
+}
