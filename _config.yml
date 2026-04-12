@@ -1,11 +1,13 @@
-theme: jekyll-theme-minimal
-
 title: João Vitor de Paiva Marcotti
+description: Analista de Dados | Data Science Freelancer
+url: "https://joaopaivaa.github.io"
+baseurl: ""
 
-description: >
-  <a href="index.html">Home</a> | 
-  <a href="portfolio.html">Portfolio</a> | 
-  <a href="academic_publications.html">Academic Publications</a>
-  <br><br>
+remote_theme: mmistakes/minimal-mistakes@docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
-show_downloads: false
+layout: single
+author_profile: true
+paginate: 3
