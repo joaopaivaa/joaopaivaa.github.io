@@ -3,6 +3,11 @@ theme: jekyll-theme-minimal
 title: João Vitor de Paiva Marcotti
 
 description: >
-  **[Home](index.html)** | **[Portfolio](portfolio.html)** | **[Research](research.html)**
+  <a href="index.html">Home</a> | 
+  <a href="portfolio.html">Portfolio</a> | 
+  <a href="blog.html">Blog</a> | 
+  <a href="resumos.html">Resumos</a> | 
+  <a href="publicacoes.html">Publicações</a>
+  <br><br>
 
 show_downloads: false
