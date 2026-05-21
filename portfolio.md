@@ -19,7 +19,7 @@ Applied skills: data analysis, ETL, machine learning and web scraping.
 
 ---
 
-## DramMatch - Your whisky recommender
+## Whisky Recommendation System
 
 A recommendation system that, based on the user’s tasting profile, recommends the most similar bottle based on its tasting notes.
 
@@ -59,31 +59,3 @@ Applied skills: data analysis, data visualization, ETL and web scraping.
   frameborder="0"
   allowFullScreen="true">
 </iframe>
-
----
-
-## Whisky Casks ETL
-
-ETL process developed to extract, transform and load data from whisky auction houses intended to feed my personal data analysis and machine learning projects related to whisky casks.
-
-Applied tools: Python and R.
-
-Applied skills: ETL and web scraping.
-
-[GitHub repository](https://github.com/joaopaivaa/Whisky-Casks-ETL)
-
----
-
-## Financial Utilities API
-
-Composed by 4 routes:
-- Inflation Adjustment Route (POST): Receives time series monetary values and adjusts it by the CPI rate. Available for: BRL, GBP and USD;
-- Currency Rate Conversion Route (POST): Receives time series monetary values and converts it into other currencies. Available for: Euro to GBP, Euro to USD, GBP to Euro, GBP to USD, USD to Euro and USD to GBP;
-- French and SAC Amortizations Calculation Route (POST): Receives principal, interest rate and number of time periods and calculates its amortization process;
-- Simple and Compound Interest Route (POST): Receives 3 values between total amount, principal, interest rate and number of time periods and calculates the missing one.
-
-Applied tools: FastAPI and Python.
-
-Applied skills: economics, finance, python development.
-
-[Try it!](https://financial-utilities-api.onrender.com/docs)
