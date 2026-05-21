@@ -27,7 +27,7 @@ Applied tools: Python, R and Streamlit.
 
 Applied skills: data visualization, ETL, natural language processing, recommendation systems and web scraping.
 
-[Try it!](https://dram-match.streamlit.app)
+[Try it!](https://whisky-recomendation-system-template.onrender.com/)
 
 ---
 
