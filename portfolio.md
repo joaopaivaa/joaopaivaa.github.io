@@ -39,7 +39,7 @@ Applied tools: Plotly, PySpark, Python and Streamlit.
 
 Applied skills: big data, data analysis, data visualization and ETL.
 
-[Try it!](https://precos-de-combustiveis-no-brasil.streamlit.app)
+[Try it!](https://precos-de-combustiveis-brasil.streamlit.app)
 
 ---
 
