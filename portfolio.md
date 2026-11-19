@@ -31,7 +31,7 @@ Applied skills: data analysis, ETL, machine learning and web scraping.
 
 ---
 
-## Whisky Recommendation System
+## DramMatch - Whisky Recommendation System
 
 A recommendation system that, based on the user’s tasting profile, recommends the most similar bottle based on its tasting notes.
 
@@ -39,7 +39,7 @@ Applied tools: Python, R and Streamlit.
 
 Applied skills: data visualization, ETL, natural language processing, recommendation systems and web scraping.
 
-[Try it!](https://whisky-recomendation-system-template.onrender.com/)
+[Try it!](https://dram-match.onrender.com)
 
 ---
 
