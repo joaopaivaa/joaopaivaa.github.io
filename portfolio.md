@@ -15,7 +15,7 @@ Applied tools: Python, R, PyTorch, FastAPI.
 
 Applied skills: computer vision, machine learning, deep learning, transfer learning and web scraping.
 
-[Try it!](https://bottle-filling-level-classifier-api.onrender.com)
+[Try it!](https://bottle-filling-level-classifier-api.onrender.com/docs)
 
 ---
 
