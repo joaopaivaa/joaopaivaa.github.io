@@ -7,6 +7,18 @@ title: Portfolio
 
 ---
 
+## Bottle Filling Level Classifier
+
+A computer vision model composed by 3 CNN and 1 YOLO models trained on data from one auction house, capable of classifing the filling level of a whisky bottle on 5 classes: High Neck, Into Neck, Lower Neck, High Shoulder, Shoulder.
+
+Applied tools: Python, R, PyTorch, FastAPI.
+
+Applied skills: computer vision, machine learning, deep learning, transfer learning and web scraping.
+
+[Try it!](https://bottle-filling-level-classifier-api.onrender.com)
+
+---
+
 ## Cask Worth - Whisky Casks Pricing Model
 
 A machine learning (supervised learning) model trained on past auction data from multiple auction houses, capable of estimating the value a whisky cask.
